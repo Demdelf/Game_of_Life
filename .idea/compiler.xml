@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="Game_of_Life-task_main" target="11" />
+      <module name="Game_of_Life-task_test" target="11" />
+      <module name="Problems-Swap_the_columns_main" target="11" />
+      <module name="Problems-Swap_the_columns_test" target="11" />
+      <module name="Problems__1_-Pretty_looking_pattern_main" target="11" />
+      <module name="Problems__1_-Pretty_looking_pattern_test" target="11" />
+      <module name="Problems__2_-Sum_of_neighbors_main" target="11" />
+      <module name="Problems__2_-Sum_of_neighbors_test" target="11" />
+      <module name="Problems__3_-Some_hours_and_minutes_ago_main" target="11" />
+      <module name="Problems__3_-Some_hours_and_minutes_ago_test" target="11" />
+      <module name="Problems__4_-Some_hours_and_minutes_ago_main" target="11" />
+      <module name="Problems__4_-Some_hours_and_minutes_ago_test" target="11" />
+      <module name="Problems__5_-Handling_interruptions_main" target="11" />
+      <module name="Problems__5_-Handling_interruptions_test" target="11" />
+      <module name="Problems__6_-Interrupting_a_thread_main" target="11" />
+      <module name="Problems__6_-Interrupting_a_thread_test" target="11" />
+      <module name="Problems__7_-Finding_and_starting_a_thread_main" target="11" />
+      <module name="Problems__7_-Finding_and_starting_a_thread_test" target="11" />
+      <module name="Problems__8_-Boxes_main" target="11" />
+      <module name="Problems__8_-Boxes_test" target="11" />
+      <module name="util_main" target="11" />
+      <module name="util_test" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

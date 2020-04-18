@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="delegatedBuild" value="false" />
+        <option name="testRunner" value="GRADLE" />
+        <option name="distributionType" value="WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/Game of Life/task" />
+            <option value="$PROJECT_DIR$/Problems (1)/Pretty looking pattern" />
+            <option value="$PROJECT_DIR$/Problems (2)/Sum of neighbors" />
+            <option value="$PROJECT_DIR$/Problems (3)/Some hours and minutes ago" />
+            <option value="$PROJECT_DIR$/Problems (4)/Some hours and minutes ago" />
+            <option value="$PROJECT_DIR$/Problems (5)/Handling interruptions" />
+            <option value="$PROJECT_DIR$/Problems (6)/Interrupting a thread" />
+            <option value="$PROJECT_DIR$/Problems (7)/Finding and starting a thread" />
+            <option value="$PROJECT_DIR$/Problems (8)/Boxes" />
+            <option value="$PROJECT_DIR$/Problems/Swap the columns" />
+            <option value="$PROJECT_DIR$/util" />
+          </set>
+        </option>
+        <option name="useAutoImport" value="true" />
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>
